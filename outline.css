@@ -1,0 +1,16 @@
+div{
+    background-color: darkgray;
+    padding: 100px;
+    border: black solid 1px;
+    text-align: center;
+    display: inline-block;
+    margin: 100px;
+}
+
+#dv1{
+    border: black solid 50px;
+}
+
+#dv2{
+    outline: #000 solid 50px;
+}

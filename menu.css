@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+
+#objMenu{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+a{
+    text-decoration: none;
+    background-color: rgb(105, 194, 230);
+    color: #fff;
+    padding: 0px;
+    margin: 0px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    width: 1000px;
+    height: 60px;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-shadow: rgb(73, 72, 72) 4px 4px 5px;
+    font-weight: bold;
+}
+
+a:hover{
+    background-color: rgb(68, 144, 214);
+    color: black;
+}
